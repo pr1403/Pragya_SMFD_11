@@ -23,4 +23,4 @@
 - Achieved high-accuracy pricing via BSM and Monte Carlo simulations under the risk-neutral framework  
 
 ---
-1
+
